@@ -3,7 +3,7 @@ Version:	56855
 Release:	2
 Summary:	Longtable support with possible X-column specifier
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/xltabular
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/xltabular
 License:	lppl1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/xltabular.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/xltabular.doc.r%{version}.tar.xz
