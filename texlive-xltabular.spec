@@ -1,6 +1,6 @@
 Name:		texlive-xltabular
-Version:	56855
-Release:	2
+Version:	72712
+Release:	1
 Summary:	Longtable support with possible X-column specifier
 Group:		Publishing
 URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/xltabular
